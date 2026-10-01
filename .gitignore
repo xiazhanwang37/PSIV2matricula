@@ -1,0 +1,7 @@
+.venv/
+runs/
+real_plates/
+**/plate_dataset/
+**/__pycache__/
+*.py[cod]
+*.cache
